@@ -10,4 +10,4 @@ Done by Viktorija Kondratjevaite during 11.22 - 11.26 and will not be improved u
 
 ## Things to improve ⚙️
 * Look for best database schema optimization possible.
-* 
+* Check if relationships are correct and logical.
